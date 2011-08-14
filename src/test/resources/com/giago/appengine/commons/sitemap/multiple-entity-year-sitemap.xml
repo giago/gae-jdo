@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<sitemap>
+		<loc>http://localhost:8888/sitemap.xml?year=1990&amp;entity=Article</loc>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost:8888/sitemap.xml?year=1991&amp;entity=Article</loc>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost:8888/sitemap.xml?year=1992&amp;entity=Tag</loc>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost:8888/sitemap.xml?year=1993&amp;entity=Tag</loc>
+	</sitemap>
+</sitemapindex>

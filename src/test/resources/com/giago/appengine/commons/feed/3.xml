@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
+  <title>title</title>
+  <link rel="alternate" href="link" />
+  <subtitle>description</subtitle>
+  <updated>1970-01-01T00:00:00Z</updated>
+  <dc:creator>luigi</dc:creator>
+  <dc:date>1970-01-01T00:00:00Z</dc:date>
+  <entry>
+    <title>App Engine maven</title>
+    <link rel="alternate" href="prefix/article/App-Engine-maven-2" />
+    <author>
+      <name>pippo</name>
+    </author>
+    <updated>1970-01-01T00:00:10Z</updated>
+    <published>1970-01-01T00:00:10Z</published>
+    <summary>Integrate maven and app engine</summary>
+    <dc:creator>pippo</dc:creator>
+    <dc:date>1970-01-01T00:00:10Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gwt and maven</title>
+    <link rel="alternate" href="prefix/article/Gwt-and-maven-1" />
+    <author>
+      <name>luigi</name>
+    </author>
+    <updated>1970-01-01T00:00:00Z</updated>
+    <published>1970-01-01T00:00:00Z</published>
+    <summary>How to add support for get to the build</summary>
+    <dc:creator>luigi</dc:creator>
+    <dc:date>1970-01-01T00:00:00Z</dc:date>
+  </entry>
+</feed>
